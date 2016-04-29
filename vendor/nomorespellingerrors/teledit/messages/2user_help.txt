@@ -1,0 +1,8 @@
+﻿<b>Spell check</b>
+Choose /spell and I'll highlight all the words in your text that might have spelling mistakes. This is a free automatic check that works inline.
+
+<b>Proofreading</b>
+Select /proof to have your text polished by a professional proofreader. No more spelling, punctuation, grammar, and stylistic errors. Wow.  
+
+<b>Payment</b>
+We accept secure payments with LiqPay. It works with all the major bank cards worldwide.

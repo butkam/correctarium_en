@@ -1,0 +1,6 @@
+﻿Damn, something went wrong :(
+
+Possible reasons:
+– insufficient funds;
+– bank restrictions;
+– a typo. Please try again: %s

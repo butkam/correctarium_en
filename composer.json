@@ -1,0 +1,15 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/nomorespellingerrors/teledit"
+    }
+  ],
+  "require" : {
+    "parse/php-sdk" : "1.1.*",
+    "noahbuscher/macaw": "dev-master",
+    "nomorespellingerrors/teledit": "*",
+    "mailgun/mailgun-php": "~2.0",
+    "php-http/guzzle6-adapter": "^1.0"
+  }
+}

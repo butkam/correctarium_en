@@ -1,0 +1,26 @@
+{
+  "name": "nomorespellingerrors/teledit",
+  "description": "Telegram bot for correctarium.com order placement",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexander Terekhov",
+      "homepage": "http://www.terales.info",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "irazasyed/telegram-bot-sdk": "^2.0",
+    "parse/php-sdk": "1.1.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*",
+    "mockery/mockery": "0.9.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nomorespellingerrors\\teledit\\": "src"
+    }
+  }
+}

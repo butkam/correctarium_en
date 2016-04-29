@@ -1,0 +1,3 @@
+﻿Hurray, time to start!
+
+Choose /spell for free spell check or /proof to have your text corrected by a proofreader.

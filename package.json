@@ -1,0 +1,30 @@
+{
+  "name": "correctarium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "postcss": "^5.0.19",
+    "postcss-cssnext": "^2.5.1",
+    "postcss-nested": "^1.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomorespellingerrors/correctarium.git"
+  },
+  "author": "Anton Poliakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomorespellingerrors/correctarium/issues"
+  },
+  "homepage": "https://github.com/nomorespellingerrors/correctarium#readme"
+}

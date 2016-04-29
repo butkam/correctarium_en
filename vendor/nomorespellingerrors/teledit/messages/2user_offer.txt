@@ -1,0 +1,5 @@
+﻿We'll deliver your order %s after receiving the payment.
+
+Price: <b>%s USD</b>
+
+💳 %s

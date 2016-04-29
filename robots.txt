@@ -1,0 +1,31 @@
+User-agent: Mediapartners-Google*
+Disallow: /success
+Disallow: /proccess-payment
+Disallow: /payment-failure
+Disallow: /payment*
+Disallow: /editor*
+Disallow: /rockmongo*
+Disallow: /login*
+Disallow: /404*
+
+User-agent: *
+Disallow: /success
+Disallow: /proccess-payment
+Disallow: /payment-failure
+Disallow: /payment*
+Disallow: /editor*
+Disallow: /rockmongo*
+Disallow: /login*
+Disallow: /404*
+
+User-agent: Yandex
+Disallow: /success
+Disallow: /proccess-payment
+Disallow: /payment-failure
+Disallow: /payment*
+Disallow: /editor*
+Disallow: /rockmongo*
+Disallow: /login*
+Disallow: /404*
+
+Host: correctarium.com
